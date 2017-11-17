@@ -4,8 +4,17 @@
 and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
-Submitted to the "Challenges and Benefits of Open Source Software and Open
-Data" session of the AGU Fall Meeting, 2017.
+Poster presentation at the AGU Fall Meeting 2017.
+
+Abstract: [IN51B-0018](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/233450)
+
+Session: [Challenges and Benefits of Open Source Software and Open Data](https://agu.confex.com/agu/fm17/meetingapp.cgi/Session/23607)
+
+When: Friday, 15 December 2017 | 08:00 - 12:20 
+
+Where: Poster Hall D-F
+
+
 
 ## Abstract
 
