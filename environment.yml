@@ -1,0 +1,14 @@
+name: agu2017
+channels:
+    - conda-forge/label/dev
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.6
+    - pip
+    - gmt=6.0.0*
+    - numpy
+    - matplotlib
+    - jupyter
+    - pip:
+        - https://github.com/GenericMappingTools/gmt-python/archive/master.zip
