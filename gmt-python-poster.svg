@@ -11,7 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="6480"
-   height="4320"
+   height="3780"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
@@ -38,11 +38,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="3402.0036"
-     inkscape:cy="2375.1727"
+     inkscape:cx="3731.9958"
+     inkscape:cy="1972.4086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     units="ft" />
+     units="in" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,35 +68,38 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,3267.675)">
+     transform="translate(0,2727.675)">
     <image
-       y="-3267.675"
+       sodipodi:absref="/home/leo/talk/agu2017/poster_background.png"
+       xlink:href="poster_background.png"
+       width="6480"
+       height="3566.8833"
+       id="image3043"
        x="0"
-       id="image338819"
-       xlink:href="file:///home/leo/src/gmt/python/doc/poster.png"
-       height="4320"
-       width="6480" />
+       y="-2514.5583" />
     <rect
-       style="color:#000000;fill:#215aa1;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.91837966000000004;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.09999990000000025;stroke-opacity:1;stroke-dasharray:7.34703741000000043, 3.67351869999999980;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#215aa1;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:0.80297798;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-opacity:1;stroke-dasharray:6.4238238, 3.21191189;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect339596"
        width="6479.0815"
-       height="905.43866"
+       height="692.18439"
        x="0.45922852"
-       y="-3267.2158" />
+       y="-2727.2158" />
     <text
        xml:space="preserve"
-       style="font-size:92.16212462999999389px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Semi-Light"
-       x="274.25781"
-       y="-2808.2085"
+       style="font-size:92.16212463px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Semi-Light"
+       x="659.67773"
+       y="-2400.7158"
        id="text305989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan305991"
-         x="274.25781"
-         y="-2808.2085"
-         style="font-size:230px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Bold;fill:#ffffff">A modern Python interface for the Generic Mapping Tools</tspan></text>
+         x="659.67773"
+         y="-2400.7158"
+         style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto Bold">A modern <tspan
+   style="font-size:200px;fill:#ffdd55"
+   id="tspan3108">Python</tspan> interface for the Generic Mapping Tools</tspan></text>
     <rect
-       style="color:#000000;fill:#215aa1;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.09999990000000025;stroke-opacity:1;stroke-dasharray:8, 4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#215aa1;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-opacity:1;stroke-dasharray:8, 4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect338822"
        width="395.9798"
        height="395.9798"
@@ -116,88 +119,82 @@
          y="659.62891">Try a demo!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:80px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:160%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:160.00000238%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
        x="210.11171"
-       y="-2091.2698"
+       y="-1768.0209"
        id="text339598"
        sodipodi:linespacing="160%"><tspan
          sodipodi:role="line"
          id="tspan339600"
          x="210.11171"
-         y="-2091.2698"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%"><tspan
-   style="font-size:90px;font-weight:bold;fill:#008000;line-height:160%"
+         y="-1768.0209"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono"><tspan
+   style="font-size:80px;font-weight:bold;line-height:160.00000238%;fill:#008000"
    id="tspan339614">import</tspan> gmt</tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1978.7698"
-         id="tspan339602"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%" /><tspan
-         sodipodi:role="line"
-         x="210.11171"
-         y="-1866.2698"
+         y="-1640.0209"
          id="tspan339604"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%">fig = gmt.Figure()</tspan><tspan
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono">fig = gmt.Figure()</tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1753.7698"
+         y="-1512.0209"
          id="tspan339606"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%">fig.pscoast(region=<tspan
-   style="font-size:90px;fill:#ff0000;line-height:160%"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono">fig.pscoast(region=<tspan
+   style="font-size:80px;line-height:160.00000238%;fill:#ff0000"
    id="tspan339618">'-270/90/-76/76'</tspan>, projection=<tspan
-   style="font-size:90px;fill:#ff0000;line-height:160%"
+   style="font-size:80px;line-height:160.00000238%;fill:#ff0000"
    id="tspan339620">'M10i'</tspan>, </tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1641.2698"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%"
+         y="-1384.0209"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono"
          id="tspan339610">            land=<tspan
-   style="font-size:90px;fill:#ff2a2a;line-height:160%"
+   style="font-size:80px;line-height:160.00000238%;fill:#ff2a2a"
    id="tspan339622">'#dddddd'</tspan>)</tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1528.7698"
+         y="-1256.0209"
          id="tspan339608"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%">fig.savefig(<tspan
-   style="fill:#ff0000;line-height:160%"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono">fig.savefig(<tspan
+   style="font-size:80px;line-height:160.00000238%;fill:#ff0000"
    id="tspan339655">'poster-background.png'</tspan>, transparent=<tspan
    id="tspan339671"
-   style="fill:#008000;font-weight:bold;line-height:160%">True</tspan>,</tspan><tspan
+   style="font-size:80px;font-weight:bold;line-height:160.00000238%;fill:#008000">True</tspan>,</tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1416.2698"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%"
+         y="-1128.0209"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono"
          id="tspan339657">            dpi=<tspan
-   style="fill:#008000;line-height:160%"
+   style="font-size:80px;line-height:160.00000238%;fill:#008000"
    id="tspan339659">1000</tspan>) </tspan><tspan
          sodipodi:role="line"
          x="210.11171"
-         y="-1303.7698"
-         style="font-size:90px;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono;line-height:160%"
+         y="-1000.0209"
+         style="font-size:80px;line-height:160.00000238%;font-family:Roboto Mono;-inkscape-font-specification:Roboto Mono"
          id="tspan339612">fig.show()</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
-       x="4024.4478"
-       y="1232.9738"
+       x="4056.7727"
+       y="-1565.9905"
        id="text339624"
-       sodipodi:linespacing="125%"
-       transform="translate(0,-3267.675)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan339626"
-         x="4024.4478"
-         y="1232.9738">main features and goals</tspan></text>
+         x="4056.7727"
+         y="-1565.9905">main features and goals</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
-       x="2136.8979"
-       y="558.53986"
+       x="2662.1772"
+       y="728.24548"
        id="text339624-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan339626-3"
-         x="2136.8979"
-         y="558.53986">links</tspan></text>
+         x="2662.1772"
+         y="728.24548">links</tspan></text>
     <rect
        style="color:#000000;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect339649"
@@ -216,5 +213,60 @@
          id="tspan339653"
          x="5584.123"
          y="834.13226">logos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
+       x="4014.2332"
+       y="-299.50363"
+       id="text339624-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan339626-6"
+         x="4014.2332"
+         y="-299.50363">code showing the clib as well</tspan></text>
+    <g
+       id="g3118"
+       transform="translate(-908.5819,14)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3027"
+         y="-2214.813"
+         x="2103.3589"
+         style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
+         xml:space="preserve"><tspan
+           style="font-size:80px"
+           y="-2214.813"
+           x="2103.3589"
+           id="tspan3029"
+           sodipodi:role="line"><tspan
+   id="tspan3031"
+   style="font-size:80px;font-weight:bold">Leonardo Uieda</tspan> (leouieda@gmail.com) and <tspan
+   id="tspan3033"
+   style="font-size:80px;font-weight:bold">Paul Wessel          </tspan>Dept. Geology and Geophysics, SOEST, University of Hawaii</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3027-7"
+         y="-2214.813"
+         x="4246.6572"
+         style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
+         xml:space="preserve"><tspan
+           style="font-size:70px"
+           y="-2214.813"
+           x="4246.6572"
+           id="tspan3029-5"
+           sodipodi:role="line" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barlow;-inkscape-font-specification:Barlow"
+       x="2270.8228"
+       y="357.34009"
+       id="text3114"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116"
+         x="2270.8228"
+         y="357.34009"
+         style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light">Get involved!</tspan></text>
   </g>
 </svg>
