@@ -5,7 +5,7 @@ and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
 
-**DEMO:** Click on the badge launch a Jupyter notebook on [mybinder.org](https://mybinder.org): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb) 
+**DEMO:** Click on the badge launch a Jupyter notebook on [mybinder.org](https://mybinder.org): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb)
 
 Poster presentation at the AGU Fall Meeting 2017.
 
@@ -13,7 +13,7 @@ Poster presentation at the AGU Fall Meeting 2017.
 
 **Session:** [Challenges and Benefits of Open Source Software and Open Data](https://agu.confex.com/agu/fm17/meetingapp.cgi/Session/23607)
 
-**When:** Friday, 15 December 2017 | 08:00 - 12:20 
+**When:** Friday, 15 December 2017 | 08:00 - 12:20
 
 **Where:** Poster Hall D-F
 
@@ -59,12 +59,14 @@ release of  GMT 6, which is expected for early 2018.
 
 ## Notes
 
-I used the fonts Roboto Mono for code, Roboto for headings, and Barlow for text. 
+I used the fonts Roboto Mono for code, Roboto for headings, and Barlow for text.
 Both can be downloaded from [Google Fonts](https://fonts.google.com/).
 
 The poster was made using [Inkscape](https://inkscape.org/).
-The background image is linked in the SVG file so you'll need to have it together 
+The background image is linked in the SVG file so you'll need to have it together
 with the SVG poster.
+
+Icons by [fontawesome](http://fontawesome.io).
 
 ## License
 
