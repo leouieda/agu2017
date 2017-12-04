@@ -60,7 +60,7 @@ release of  GMT 6, which is expected for early 2018.
 ## Notes
 
 I used the fonts Roboto Mono for code, Roboto for headings, and Barlow for text.
-Both can be downloaded from [Google Fonts](https://fonts.google.com/).
+All can be downloaded from [Google Fonts](https://fonts.google.com/).
 
 The poster was made using [Inkscape](https://inkscape.org/).
 The background image is linked in the SVG file so you'll need to have it together
