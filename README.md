@@ -68,7 +68,9 @@ with the SVG poster.
 
 The icons are from [fontawesome](http://fontawesome.io).
 
-The QR codes were generated using [qrencode](https://github.com/fukuchi/libqrencode).
+The QR codes were generated using [qrencode](https://github.com/fukuchi/libqrencode):
+
+    qrencode -t EPS -o qrcode.eps URL
 
 ## License
 
