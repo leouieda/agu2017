@@ -2741,11 +2741,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.087500002"
-     inkscape:cx="2946.3419"
-     inkscape:cy="2607.7718"
+     inkscape:zoom="0.175"
+     inkscape:cx="2130.6892"
+     inkscape:cy="2275.4022"
      inkscape:document-units="in"
-     inkscape:current-layer="g14447"
+     inkscape:current-layer="g14414"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="748"
@@ -2801,13 +2801,13 @@
     <image
        sodipodi:absref="/home/leo/talk/agu2017/poster_background.png"
        xlink:href="poster_background.png"
-       y="227.32471"
-       x="0"
-       id="image65848-5"
-       preserveAspectRatio="none"
-       height="3804.6753"
+       style="display:inline"
        width="6912"
-       style="display:inline" />
+       height="3804.6753"
+       preserveAspectRatio="none"
+       id="image65848-5"
+       x="0"
+       y="227.32471" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:0.12772804;stroke-miterlimit:100;stroke-dasharray:none;marker:none;enable-background:accumulate"
        id="rect200"
@@ -10470,25 +10470,23 @@
            style="font-size:80px;line-height:1.25;stroke-width:1.06666672"
            y="-1764.8157"
            x="106.14021"
-           sodipodi:role="line">    The Generic Mapping Tools (GMT) is an open-source tool for processing geospacial data and </tspan><tspan
-           id="tspan14296"
+           sodipodi:role="line">   The Generic Mapping Tools (GMT) are open-source programs for processing geospacial data and </tspan><tspan
            style="font-size:80px;line-height:1.25;stroke-width:1.06666672"
            y="-1664.8157"
            x="106.14021"
-           sodipodi:role="line"><tspan
+           sodipodi:role="line"
+           id="tspan2105"><tspan
    id="tspan14302"
-   style="font-weight:bold">making beautiful maps</tspan>. Python is one of the fastest growing <tspan
+   style="font-weight:bold">making beautiful maps</tspan>. Python is one of the fastest growing languages for <tspan
    id="tspan14318"
-   style="font-weight:bold">scientific computing </tspan>languages.</tspan><tspan
-           id="tspan14310"
+   style="font-weight:bold">scientific computing</tspan>.</tspan><tspan
            style="font-size:80px;line-height:1.25;stroke-width:1.06666672"
            y="-1564.8157"
            x="106.14021"
-           sodipodi:role="line">We are <tspan
+           sodipodi:role="line"
+           id="tspan2118">We are building a<tspan
    id="tspan14314"
-   style="font-weight:bold"><tspan
-   id="tspan14316"
-   style="font-weight:normal">building a</tspan> bridge</tspan> to bring the power of GMT to the Python ecosystem.</tspan></text>
+   style="font-weight:bold"> bridge</tspan> to bring the power of GMT to the Python ecosystem.</tspan></text>
     </g>
   </g>
   <g
