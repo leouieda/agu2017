@@ -5,7 +5,7 @@ and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
 
-**DEMO:** Click on the badge launch a Jupyter notebook on [mybinder.org](https://mybinder.org): [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb)
+**ONLINE DEMO:** Click on the badge launch a Jupyter notebook on [mybinder.org](https://mybinder.org) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb)
 
 Poster presentation at the AGU Fall Meeting 2017.
 
@@ -19,7 +19,7 @@ Poster presentation at the AGU Fall Meeting 2017.
 
 **Download the poster in PDF:** doi:[10.6084/m9.figshare.5662411](https://doi.org/10.6084/m9.figshare.5662411)
 
-
+<img src="gmt-python-poster.png" width="100%">
 
 ## Abstract
 
@@ -66,7 +66,9 @@ The poster was made using [Inkscape](https://inkscape.org/).
 The background image is linked in the SVG file so you'll need to have it together
 with the SVG poster.
 
-Icons by [fontawesome](http://fontawesome.io).
+The icons are from [fontawesome](http://fontawesome.io).
+
+The QR codes were generated using [qrencode](https://github.com/fukuchi/libqrencode).
 
 ## License
 
