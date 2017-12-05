@@ -2742,10 +2742,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="3868.646"
-     inkscape:cy="1682.8739"
+     inkscape:cx="3474.7149"
+     inkscape:cy="1912.6076"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3118"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1060"
@@ -2801,13 +2801,13 @@
     <image
        sodipodi:absref="/home/leo/talk/agu2017/poster_background.png"
        xlink:href="poster_background.png"
-       y="227.32471"
-       x="0"
-       id="image65848-5"
-       preserveAspectRatio="none"
-       height="3804.6753"
+       style="display:inline"
        width="6912"
-       style="display:inline" />
+       height="3804.6753"
+       preserveAspectRatio="none"
+       id="image65848-5"
+       x="0"
+       y="227.32471" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:0.12772804;stroke-miterlimit:100;stroke-dasharray:none;marker:none;enable-background:accumulate"
        id="rect200"
@@ -4624,7 +4624,7 @@
    id="tspan3031"
    style="font-weight:bold;font-size:93.33333588px;stroke-width:1.06666672">Leonardo Uieda*</tspan> and <tspan
    id="tspan3033"
-   style="font-weight:bold;font-size:93.33333588px;stroke-width:1.06666672">Paul Wessel          </tspan>Dept. Geology and Geophysics, SOEST, University of Hawai'i at Manoa</tspan></text>
+   style="font-weight:bold;font-size:93.33333588px;stroke-width:1.06666672">Paul Wessel          </tspan>Dept. Geology and Geophysics, SOEST, University of Hawai'i at Mānoa</tspan></text>
       <text
          id="text3027-7"
          y="-2362.4673"
