@@ -6,10 +6,10 @@ channels:
 dependencies:
     - python=3.6
     - pip
-    - gmt=6.0.0*
+    - gmt=6.0.0a10
     - numpy
     - pandas
     - matplotlib
     - jupyter
     - pip:
-        - https://github.com/GenericMappingTools/gmt-python/archive/master.zip
+        - https://github.com/GenericMappingTools/gmt-python/archive/44e06968c1f0e21eabd3ae58904800ecadc555c6.zip
