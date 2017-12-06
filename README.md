@@ -5,7 +5,10 @@ and
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/)
 
 
-**ONLINE DEMO:** Click on the badge launch a Jupyter notebook on [mybinder.org](https://mybinder.org) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb)
+**ONLINE DEMO:** Try it online (no install required) at [agu2017demo.gmtpython.xyz](http://agu2017demo.gmtpython.xyz)
+or by clicking on this badge [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/leouieda/agu2017/master?filepath=demo.ipynb)
+
+The demo runs a Jupyter notebook thanks to the [mybinder.org](https://mybinder.org) service.
 
 Poster presentation at the AGU Fall Meeting 2017.
 
